@@ -17,6 +17,11 @@ This app allows the user to search and view images which are hosted on a website
 <h2>App Running (Emulator)</h2>
 
 <p align="center">
+NavGraph<br/>
+<img src="https://i.imgur.com/RpCVPk9.jpg"/>
+<br />
+
+<p align="center">
 Default screen<br/>
 <img src="https://i.imgur.com/h7l7P7S.jpg"/>
 <br />
